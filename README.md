@@ -1,1 +1,3 @@
-successfully complete Myntra clone project
+successfully complete Myntra Functional clone project
+
+Using --> HTML,CSS,JavaSvript
